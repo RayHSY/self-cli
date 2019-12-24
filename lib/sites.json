@@ -1,0 +1,5 @@
+{
+  "baidu": "https://www.baidu.com/s?wd=$KEYWORD",
+  "github": "https://github.com/search?q=$KEYWORD",
+  "juejin": "https://juejin.im/search?query=$KEYWORD&type=all"
+}
